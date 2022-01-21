@@ -1,0 +1,56 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.logo img{
+    height: 40px;
+}
+
+/* banner style */
+
+.container{
+    width: 100%;
+}
+
+.button{
+    border: none;
+    color: white;
+    font-weight: 400;
+    padding: 15px 25px;
+    background-color: rgba(9, 170, 9, 0.884);
+}
+
+.banner{
+    min-height: 100vh;
+    background-color: #FFFBF0;
+}
+/* product section */
+
+.product{
+    background-color: #E5E5E5;
+}
+.product-tittle{
+    margin-top: 50px;
+}
+.my-cards{
+    border: none;
+    border-radius: 5px;
+    /* box-shadow: 5px 5px 5px  #aaaaaa; */
+}
+.card-image{
+    background-color:#F1F1F1;
+    border-radius: 5px;
+}
+
+/* last section */
+
+.icon img{
+    width: 78px;
+    height: 82px;
+}
+.last-sec-img{
+    margin-left: 20px;
+}
+.last-sec-img img{
+    width: 100%;
+    height: 355px;
+}
